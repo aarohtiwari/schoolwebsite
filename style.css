@@ -2,3 +2,36 @@
     height: 700;
     width: 1200;
 }
+.travel_mainDiv
+{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #C7C7C7;
+}
+.travel_mainDiv img
+{
+   width: 100%;
+   height:300px;
+}
+#achievements
+{
+    padding-bottom: 10px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius:10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i
+{
+    float: right;
+}
+.movie_text span
+{
+    color: #FF7700;
+}
